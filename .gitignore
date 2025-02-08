@@ -4,7 +4,8 @@ Makefile.in
 /ar-lib
 /mdate-sh
 /py-compile
-/test-driver
+/test-red
+
 /ylwrap
 .deps/
 .dirstamp
